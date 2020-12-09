@@ -1,1 +1,1 @@
-JAMstack
+ is my first JAMstack project.

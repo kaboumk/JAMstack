@@ -1,1 +1,1 @@
- is my first JAMstack project.
+This is my first JAMstack project.
